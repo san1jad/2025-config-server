@@ -1,7 +1,0 @@
-build:
-  version: "2.0"
-accounts:
-  message: "Welcome to support quality : loan service"
-  contactDetails:
-    name: "sam quality"
-    email: "testquality@test.com"
